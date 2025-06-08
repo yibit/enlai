@@ -1,0 +1,16 @@
+.DS_Store
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+_book
+_bookdown_files
+libs
+__pycache__
+packages.bib
+enlai/*.pdf
+enlai/writing/*
+bin/*
+*.txt
+*.log
+*~

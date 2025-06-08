@@ -1,0 +1,30 @@
+--- 
+title: "周恩来选集"
+author: "周恩来"
+date: "`r Sys.Date()`"
+documentclass: ctexbook
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+fontsize: 12pt
+indent: true
+linestretch: 1.5
+link-citations: yes
+colorlinks: yes
+lot: yes
+lof: yes
+geometry: [b5paper, tmargin=2.0cm, bmargin=2.0cm, lmargin=2.0cm, rmargin=1.5cm]
+site: bookdown::bookdown_site
+description: "周恩来选集"
+github-repo: yibit/enlai
+cover-image: images/cover.jpg
+---
+
+# 序言 {-}
+
+
+## 致谢 {-}
+
+
+```{block2, type='flushright', html.tag='p'}
+卢麒元
+```
