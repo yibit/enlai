@@ -21,10 +21,8 @@ cover-image: images/cover.jpg
 
 # 序言 {-}
 
-
 ## 致谢 {-}
 
-
 ```{block2, type='flushright', html.tag='p'}
-卢麒元
+周恩来
 ```
